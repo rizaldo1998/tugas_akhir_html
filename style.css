@@ -1,0 +1,22 @@
+.desk {
+  text-align: justify;
+  font-size: 12px;
+}
+
+span {
+  background-color: yellow;
+}
+
+.abu{
+  background-color: #676767;
+}
+
+.kiri {
+  text-align: right;
+  font-size: 12px;
+}
+
+.kanan {
+  text-align: left;
+  font-size: 12px;
+}
